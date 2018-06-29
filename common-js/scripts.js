@@ -48,7 +48,8 @@
 	});
 	
 	
-	$('a[href="#"]').on('click', function(event){
+	$('a[href="#download"]').on('click', function(event){
+		window.open("https://www.w3schools.com");
 		return;
 	});
 	
