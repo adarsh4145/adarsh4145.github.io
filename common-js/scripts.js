@@ -49,7 +49,7 @@
 	
 	
 	$('a[href="#download"]').on('click', function(event){
-		window.open("https://www.w3schools.com");
+		window.open("https://adarsh4145.github.io/cv.pdf");
 		return;
 	});
 	
